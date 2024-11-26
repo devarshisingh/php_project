@@ -1,0 +1,8 @@
+# Ignore sensitive files
+.env
+
+# Ignore Composer's vendor folder
+/vendor/
+
+# Ignore OS-specific files (e.g., .DS_Store on macOS)
+.DS_Store
